@@ -1,0 +1,97 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ee="http://schemas.microsoft.com/expression/2010/effects" mc:Ignorable="d" x:Class="VisualSpectralGraph.MainWindow"
+        Title="Visual Spectral Graph" Height="607.684" Width="869.263" WindowStartupLocation="CenterScreen" Icon="asset/VSG icon.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="350*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <ToolBar Margin="-2,0,0,0"  >
+            <Button x:Name="btnClearAll" ToolTip="New" Width="35" Click="btnClearAll_Click">
+                <Image Source="asset/file.png" HorizontalAlignment="Center" Height="16" Width="16"/>
+            </Button>
+            <Button x:Name="btnSaveData" ToolTip="Save" Width="35" Click="btnSaveData_Click">
+                <Image Source="asset/save.png" HorizontalAlignment="Center" Height="16" Width="16"/>
+            </Button>
+            <Button x:Name="btnOpenData" ToolTip="Open" Width="35" Click="btnOpenData_Click">
+                <Image Source="asset/folder.png" HorizontalAlignment="Center" Height="16" Width="16"/>
+            </Button>
+
+            <Separator></Separator>
+
+            <Button x:Name="btnColor" ToolTip="Choose Color" Click="btnColor_Click">
+                <Button.Content>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="asset/bg_color.png" Height="16" Width="16"/>
+                        <Path x:Name="BtnArrow" Margin="4" VerticalAlignment="Center" Width="6" Fill="#FF527DB5" Stretch="Uniform" HorizontalAlignment="Right" Data="F1 M 301.14,-189.041L 311.57,-189.041L 306.355,-182.942L 301.14,-189.041 Z "/>
+                    </StackPanel>
+                </Button.Content>
+                <Button.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem x:Name="chkRed" Header="Red" Foreground="Red" FontWeight="Bold" IsCheckable="True" Click="chkRed_Click" />
+                        <MenuItem x:Name="chkGreen" Header="Green" Foreground="Green" FontWeight="Bold" IsCheckable="True" Click="chkGreen_Click"/>
+                        <MenuItem x:Name="chkBlue" Header="Blue" Foreground="Blue" FontWeight="Bold" IsCheckable="True" Click="chkBlue_Click"/>
+                    </ContextMenu>
+                </Button.ContextMenu>
+            </Button>
+
+            <Button x:Name="btnPoint" ToolTip="Point Density" Click="btnPoint_Click">
+                <Button.Content>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="asset/point.png" Height="16" Width="16"/>
+                        <Path x:Name="BtnArrow1" Margin="4" VerticalAlignment="Center" Width="6" Fill="#FF527DB5" Stretch="Uniform" HorizontalAlignment="Right" Data="F1 M 301.14,-189.041L 311.57,-189.041L 306.355,-182.942L 301.14,-189.041 Z "/>
+                    </StackPanel>
+                </Button.Content>
+                <Button.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem x:Name="chkSingle" Header="Single" IsCheckable="True" Click="chkSingle_Click" />
+                        <MenuItem x:Name="chkSparse" Header="Sparse" IsCheckable="True" Click="chkSparse_Click"/>
+                        <MenuItem x:Name="chkDense" Header="Dense" IsCheckable="True" Click="chkDense_Click"/>
+                    </ContextMenu>
+                </Button.ContextMenu>
+            </Button>
+
+            <Separator></Separator>
+
+            <Button x:Name="btnDraw" ToolTip="Draw Spectral Graph" Width="35" Click="btnDraw_Click">
+                <Image Source="asset/pencil.png" HorizontalAlignment="Center" Height="16" Width="16"/>
+            </Button>
+            
+            <Button x:Name="btnClear" ToolTip="Erase all Edge" Width="35" Click="btnClearEdge_Click">
+                <Image Source="asset/erase.png" HorizontalAlignment="Center" Height="16" Width="16"/>
+            </Button>
+
+            <Button x:Name="btnSaveImg" ToolTip="Capture" Width="35" Click="btnSaveImg_Click">
+                <Image Source="asset/screenshot.png" HorizontalAlignment="Center" Height="16" Width="16"/>
+            </Button>
+
+            <Separator></Separator>
+
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="k-Near-Neighbors = "/>
+                <TextBox x:Name="txtK" Text="6" Width="25" TextAlignment="Center"/>
+
+                <TextBlock Text=" σ = "/>
+                <TextBox x:Name="txtXichma" Text="0.9" Width="25" TextAlignment="Center"/>
+
+                <TextBlock Text="Function "/>
+                <ComboBox x:Name="cbFunction" Width="171"  />
+            </StackPanel>
+
+        </ToolBar>
+
+        <Canvas x:Name="drawingPad" Margin="0,5,0,0" Grid.Row="1" MouseMove="drawingPad_MouseMove" Background="White" MouseRightButtonDown="drawingPad_MouseRightButtonDown" MouseRightButtonUp="drawingPad_MouseRightButtonUp" MouseLeftButtonDown="drawingPad_MouseLeftButtonDown" />
+        <StatusBar  VerticalContentAlignment="Bottom" Grid.Row="2" HorizontalContentAlignment="Stretch">
+            <StackPanel Orientation="Horizontal" Width="851" >
+                <Image Source="asset/ok.png" Height="16" Width="30"/>
+                <TextBlock x:Name="tbStatus" Text="Ready !" Width="334"/>
+                <TextBlock x:Name="tbPosition" Text="" Width="297" Margin="0,0,0,0" TextAlignment="Right"/>
+            </StackPanel>
+
+        </StatusBar>
+    </Grid>
+</Window>

@@ -1,0 +1,94 @@
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\VisualSpectralGraph.exe
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\VisualSpectralGraph.exe.config
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\Microsoft.Expression.Effects.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\System.Windows.Interactivity.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\MainWindow.baml
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\RestrictForm.baml
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\MainWindow.g.cs
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\RestrictForm.g.cs
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\App.g.cs
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph_MarkupCompile.cache
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.g.resources
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.Properties.Resources.resources
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.csproj.GenerateResource.Cache
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.exe
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.pdb
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\VisualSpectralGraph.pdb
+F:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.csprojResolveAssemblyReference.cache
+G:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\VisualSpectralGraph.exe.config
+G:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.exe
+G:\Nghien cuu\Project\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.pdb
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\VisualSpectralGraph.exe.config
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.exe
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.pdb
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\MainWindow.baml
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\MainWindow.g.cs
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\App.g.cs
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph_MarkupCompile.cache
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.g.resources
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.Properties.Resources.resources
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\obj\Debug\VisualSpectralGraph.csproj.GenerateResource.Cache
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\VisualSpectralGraph.exe
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\VisualSpectralGraph.pdb
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\Microsoft.Expression.Effects.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\System.Windows.Interactivity.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\de\System.Windows.Interactivity.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\en\System.Windows.Interactivity.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\es\System.Windows.Interactivity.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\it\System.Windows.Interactivity.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+G:\Ha Phuong\Develop Center\0. my Toolkit\VisualSpectralGraph\VisualSpectralGraph\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
